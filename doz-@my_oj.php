@@ -8,7 +8,7 @@ https://t.me/bomb_Source
 
 */
 //برای اجرای صحیح حالت اینلاین را از بات فادر فعال کنید//
-define('6568714786:AAG0fpmj0pWOv9_mSM9f29NwWIO_KyHR_9o', 'https://t.me/bomb_Source');//توکن را قرار دهید//
+define('6568714786:AAG0fpmj0pWOv9_mSM9f29NwWIO_KyHR_9o');//توکن را قرار دهید//
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
